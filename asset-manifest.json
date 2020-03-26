@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sankarNN/To-do-List-using-React/static/css/main.bcdc5c0e.chunk.css",
-    "main.js": "/sankarNN/To-do-List-using-React/static/js/main.7b4c842d.chunk.js",
-    "main.js.map": "/sankarNN/To-do-List-using-React/static/js/main.7b4c842d.chunk.js.map",
-    "runtime-main.js": "/sankarNN/To-do-List-using-React/static/js/runtime-main.1553c63b.js",
-    "runtime-main.js.map": "/sankarNN/To-do-List-using-React/static/js/runtime-main.1553c63b.js.map",
-    "static/js/2.0d4f1b4f.chunk.js": "/sankarNN/To-do-List-using-React/static/js/2.0d4f1b4f.chunk.js",
-    "static/js/2.0d4f1b4f.chunk.js.map": "/sankarNN/To-do-List-using-React/static/js/2.0d4f1b4f.chunk.js.map",
-    "index.html": "/sankarNN/To-do-List-using-React/index.html",
-    "precache-manifest.548e7d8ed0f8ed6e048e51edcc28fc1a.js": "/sankarNN/To-do-List-using-React/precache-manifest.548e7d8ed0f8ed6e048e51edcc28fc1a.js",
-    "service-worker.js": "/sankarNN/To-do-List-using-React/service-worker.js",
-    "static/css/main.bcdc5c0e.chunk.css.map": "/sankarNN/To-do-List-using-React/static/css/main.bcdc5c0e.chunk.css.map",
-    "static/js/2.0d4f1b4f.chunk.js.LICENSE.txt": "/sankarNN/To-do-List-using-React/static/js/2.0d4f1b4f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sankarNN/To-do-List-using-React/static/media/logo.5d5d9eef.svg"
+    "main.css": "/To-do-List-using-React/static/css/main.bcdc5c0e.chunk.css",
+    "main.js": "/To-do-List-using-React/static/js/main.db00b2e7.chunk.js",
+    "main.js.map": "/To-do-List-using-React/static/js/main.db00b2e7.chunk.js.map",
+    "runtime-main.js": "/To-do-List-using-React/static/js/runtime-main.45fa7e70.js",
+    "runtime-main.js.map": "/To-do-List-using-React/static/js/runtime-main.45fa7e70.js.map",
+    "static/js/2.0d4f1b4f.chunk.js": "/To-do-List-using-React/static/js/2.0d4f1b4f.chunk.js",
+    "static/js/2.0d4f1b4f.chunk.js.map": "/To-do-List-using-React/static/js/2.0d4f1b4f.chunk.js.map",
+    "index.html": "/To-do-List-using-React/index.html",
+    "precache-manifest.baeb79498ed3d34fda89acd16b069ee4.js": "/To-do-List-using-React/precache-manifest.baeb79498ed3d34fda89acd16b069ee4.js",
+    "service-worker.js": "/To-do-List-using-React/service-worker.js",
+    "static/css/main.bcdc5c0e.chunk.css.map": "/To-do-List-using-React/static/css/main.bcdc5c0e.chunk.css.map",
+    "static/js/2.0d4f1b4f.chunk.js.LICENSE.txt": "/To-do-List-using-React/static/js/2.0d4f1b4f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/To-do-List-using-React/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1553c63b.js",
+    "static/js/runtime-main.45fa7e70.js",
     "static/js/2.0d4f1b4f.chunk.js",
     "static/css/main.bcdc5c0e.chunk.css",
-    "static/js/main.7b4c842d.chunk.js"
+    "static/js/main.db00b2e7.chunk.js"
   ]
 }
