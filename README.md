@@ -20,3 +20,6 @@ npm run deploy
 
 ## The published To-do App:
 https://sankarnn.github.io/To-do-List-using-React/
+
+
+## Made with :heart: by sankar
