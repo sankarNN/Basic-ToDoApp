@@ -12,13 +12,13 @@ $ npm i --save @fortawesome/react-fontawesome
 
 ## Commands used to publish react files in github:
 
-git remote set-url origin https://github.com/sankarNN/To-do-List-using-React/
+git remote set-url origin https://github.com/sankarNN/Basic-ToDoApp
 
 npm run build
 
 npm run deploy
 
 ## The published To-do App:
-https://sankarnn.github.io/To-do-List-using-React/
+https://sankarNN.github.io/Basic-ToDoApp
 
 ## Made with :heart: by Sankar   
